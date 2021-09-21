@@ -1,1 +1,1 @@
-RapidMiner Studio is built to deliver business impact. It unifies data prep, machine learning and model operations, enhancing the productivity of users of any skill level across an enterprise.
+RapidMiner Studio is built to deliver data analysis impact. It combines data prep, machine learning and model operations in a simple and straightforward manner, enhancing the data analysis ability of users of any skill level across an enterprise.
